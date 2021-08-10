@@ -2,1099 +2,1105 @@
     {
         "id": 0,
         "RU": "Открываю браузер",
-        "EN": "text",
+        "EN": "I open the browser",
         "UA": "Відкриваю браузер"
     },
     {
         "id": 1,
         "RU": "Описание",
-        "EN": "text",
+        "EN": "Description",
         "UA": "Опис"
     },
     {
         "id": 2,
         "RU": "Обновление базы серверов",
-        "EN": "text",
+        "EN": "Updating the server database",
         "UA": "Оновлення бази серверів"
     },
     {
         "id": 3,
         "RU": "Перед тем как обновиться, Вам необходимо указать папку с игрой.<br>Это можно сделать либо на данной странице, укажите месторасположение папки с игрой или <a href='http:\/\/localhost:12550\/setting\/games\/set'>укажите на специальной странице<\/a>.",
-        "EN": "text",
+        "EN": "Before updating, you need to specify the folder with the game.<br>This can be done either on this page, specifying the location of the folder with the game, or <a href='http://localhost:12550/setting/games/set' >specify on the special page</a>",
         "UA": "Перш ніж оновитися, Вам необхідно вказати теку з грою.<br>Це можна зробити або на цій сторінці, вкажіть місцерозташування теки з грою або <a href='http:\/\/localhost:12550\/setting\/games\/set'>вкажіть на спеціальній сторінці<\/a>."
     },
     {
         "id": 4,
         "RU": "Лаунчер",
-        "EN": "text",
+        "EN": "Launcher",
         "UA": "Лаунчер"
     },
     {
         "id": 5,
         "RU": "Рейтинги серверов",
-        "EN": "text",
+        "EN": "Server ratings",
         "UA": "Рейтинги серверів"
     },
     {
         "id": 6,
         "RU": "Сервера проекта",
-        "EN": "text",
+        "EN": "Project servers",
         "UA": "Сервера проекту"
     },
     {
         "id": 7,
         "RU": "Логирование происходящих событий",
-        "EN": "text",
+        "EN": "Logging of events that occur",
         "UA": "Логування подій"
     },
     {
         "id": 8,
         "RU": "Регистрация лаунчера",
-        "EN": "text",
+        "EN": "Launcher registration",
         "UA": "Реєстрація лаунчер"
     },
     {
         "id": 9,
         "RU": "Местораположение папок игр",
-        "EN": "text",
+        "EN": "Location of game folders",
         "UA": "Местораположеніе папок ігор"
     },
     {
         "id": 10,
         "RU": "Не выбран клиент",
-        "EN": "text",
+        "EN": "The client is not selected",
         "UA": "Не встановлено клієнт"
     },
     {
         "id": 11,
         "RU": "Не указано месторасположение папки игры",
-        "EN": "text",
+        "EN": "Game folder location not specified",
         "UA": "Не вказано місце розташування папки гри"
     },
     {
         "id": 12,
-        "RU": "Аноны серверов",
-        "EN": "text",
+        "RU": "Анонcы серверов",
+        "EN": "Server announcements",
         "UA": "Анонім серверів"
     },
     {
         "id": 13,
         "RU": "Настройки лаунчера",
-        "EN": "text",
+        "EN": "Launcher settings",
         "UA": "Налаштування лаунчер"
     },
     {
         "id": 14,
         "RU": "Нежелательные файлы",
-        "EN": "text",
+        "EN": "Unwanted files",
         "UA": "Небажані файли"
     },
     {
         "id": 15,
         "RU": "Проверьте правильность вводимых данных",
-        "EN": "text",
+        "EN": "Check the correctness of the data you entered",
         "UA": "Перевірте правильність введених даних"
     },
     {
         "id": 16,
         "RU": "Введите ник от 1 до 16 символов",
-        "EN": "text",
+        "EN": "Enter a nickname from 1 to 16 characters",
         "UA": "Введіть нік від 1 до 16 символів"
     },
     {
         "id": 17,
         "RU": "Oops...Возникла проблема",
-        "EN": "text",
+        "EN": "Oops...There was a problem",
         "UA": "Oops ... Виникла проблема"
     },
     {
         "id": 18,
         "RU": "Необходимые файлы не были найдены, их необходимо загрузить!",
-        "EN": "text",
+        "EN": "The necessary files were not found, they need to be downloaded!",
         "UA": "Необхідні файли не були знайдені, їх необхідно завантажити!"
     },
     {
         "id": 19,
         "RU": "Альбомы",
-        "EN": "text",
+        "EN": "Albums",
         "UA": "Альбоми"
     },
     {
         "id": 20,
         "RU": "Версия лаунчера",
-        "EN": "text",
+        "EN": "Launcher version",
         "UA": "Версія лаунчер"
     },
     {
         "id": 21,
         "RU": "Открыть лаунчер",
-        "EN": "text",
+        "EN": "Open the launcher",
         "UA": "Відкрити лаунчер"
     },
     {
         "id": 22,
         "RU": "Сервер",
-        "EN": "text",
+        "EN": "Server",
         "UA": "Сервер"
     },
     {
         "id": 23,
         "RU": "Рейтинги",
-        "EN": "text",
+        "EN": "Ratings",
         "UA": "Рейтинги"
     },
     {
         "id": 24,
         "RU": "Анонс",
-        "EN": "text",
+        "EN": "Announcement",
         "UA": "Анонс"
     },
     {
         "id": 25,
         "RU": "Клиент",
-        "EN": "text",
+        "EN": "Client",
         "UA": "Клієнт"
     },
     {
         "id": 26,
         "RU": "Месторасположение",
-        "EN": "text",
+        "EN": "Location",
         "UA": "Місцезнаходження"
     },
     {
         "id": 27,
         "RU": "Запрещенные файлы",
-        "EN": "text",
+        "EN": "Forbidden files",
         "UA": "Заборонені файли"
     },
     {
         "id": 28,
         "RU": "Дополнения",
-        "EN": "text",
+        "EN": "Add-ons",
         "UA": "Додатки"
     },
     {
         "id": 29,
         "RU": "Скриншоты",
-        "EN": "text",
+        "EN": "Screenshots",
         "UA": "Скріншоти"
     },
     {
         "id": 30,
         "RU": "Поиск",
-        "EN": "text",
+        "EN": "Search",
         "UA": "Пошук"
     },
     {
         "id": 31,
         "RU": "Создать ярлык на рабочем столе",
-        "EN": "text",
+        "EN": "Create desktop shortcut",
         "UA": "Створити ярлик на робочому столі"
     },
     {
         "id": 32,
         "RU": "Копировать ссылку страницы",
-        "EN": "text",
+        "EN": "Copy link to page",
         "UA": "Копіювати посилання сторінки"
     },
     {
         "id": 33,
         "RU": "Настройки",
-        "EN": "text",
+        "EN": "Settings",
         "UA": "Налаштування"
     },
     {
         "id": 34,
         "RU": "Опции лаунчера",
-        "EN": "text",
+        "EN": "Launcher options",
         "UA": "Опції лаунчер"
     },
     {
         "id": 35,
         "RU": "Обновление",
-        "EN": "text",
+        "EN": "Update",
         "UA": "Оновлення"
     },
     {
         "id": 36,
         "RU": "Информация лаунчера",
-        "EN": "text",
+        "EN": "Launcher information",
         "UA": "Інформація лаунчер"
     },
     {
         "id": 37,
         "RU": "Ссылка на страницу",
-        "EN": "text",
+        "EN": "Link to the page",
         "UA": "Посилання на сторінку"
     },
     {
         "id": 38,
         "RU": "Ссылка",
-        "EN": "text",
+        "EN": "Link",
         "UA": "Посилання"
     },
     {
         "id": 39,
         "RU": "Создать ярлык на страницу",
-        "EN": "text",
+        "EN": "Create shortcut to page",
         "UA": "Створити ярлик на сторінку"
     },
     {
         "id": 40,
         "RU": "Название ярлыка",
-        "EN": "text",
+        "EN": "Shortcut name",
         "UA": "Назва ярлика"
     },
     {
         "id": 41,
         "RU": "Создать ярлык",
-        "EN": "text",
+        "EN": "Create shortcut",
         "UA": "Створити ярлик"
     },
     {
         "id": 42,
         "RU": "Создать патч",
-        "EN": "text",
+        "EN": "Create patch",
         "UA": "Створити патч"
     },
     {
         "id": 43,
         "RU": "Логи",
-        "EN": "text",
+        "EN": "Logs",
         "UA": "Список"
     },
     {
         "id": 44,
         "RU": "Сегодня",
-        "EN": "text",
+        "EN": "Today",
         "UA": "Сьогодні"
     },
     {
         "id": 45,
         "RU": "Вчера",
-        "EN": "text",
+        "EN": "Yesterday",
         "UA": "Вчора"
     },
     {
         "id": 46,
         "RU": "Завтра",
-        "EN": "text",
+        "EN": "Tomorrow",
         "UA": "Завтра"
     },
     {
         "id": 47,
         "RU": "Ожидается",
-        "EN": "text",
+        "EN": "Expected",
         "UA": "Очікується"
     },
     {
         "id": 48,
         "RU": "Открылись",
-        "EN": "text",
+        "EN": "Opened",
         "UA": "Відкрилися"
     },
     {
         "id": 49,
         "RU": "Время",
-        "EN": "text",
+        "EN": "Time",
         "UA": "Час"
     },
     {
         "id": 50,
         "RU": "Хроники",
-        "EN": "text",
+        "EN": "Chronicle",
         "UA": "Хроніки"
     },
     {
         "id": 51,
         "RU": "Рейтинг",
-        "EN": "text",
+        "EN": "Ranking",
         "UA": "Рейтинг"
     },
     {
         "id": 52,
         "RU": "Описание",
-        "EN": "text",
+        "EN": "Description",
         "UA": "Опис"
     },
     {
         "id": 53,
         "RU": "`Вы можете создать список игнорируемых файлов.<br>При загрузки патча, Game Update не будет загружать Вами указанный файл, просто пропустит его загрузку!<br>Это может быть полезно, если Вы не хотите загружать options.ini, user.ini...<br>`,",
-        "EN": "text",
-        "UA": "Ви можете створити список ігнорованих файлів. <br> При завантаження патча, Game Update НЕ буде завантажувати Вами зазначений файл, просто пропустить його завантаження! <br> Це може бути корисно, якщо ви не хочете завантажувати options.ini, user.ini.. .<br>"
+        "EN": "`You can create a list of ignored files.<br>When downloading a patch, the Game Update will not download the specified file, it will simply skip downloading it!<br>This can be useful if you don't want to download the options.ini, user.ini files...<br>`,",
+        "UA": "Ви можете створити список ігнорованих файлів. <br> При завантаження патча, Game Update НЕ буде завантажувати Вами зазначений файл, просто пропустить його завантаження! <br> Це може бути корисно, якщо ви не хочете завантажувати options.ini, user.ini...<br>"
     },
     {
         "id": 54,
         "RU": "Игнорирование файла",
-        "EN": "text",
+        "EN": "Ignoring the file",
         "UA": "Ігнорування файлу"
     },
     {
         "id": 55,
         "RU": "Название файла",
-        "EN": "text",
+        "EN": "File name",
         "UA": "Назва файлу"
     },
     {
         "id": 56,
         "RU": "Добавить",
-        "EN": "text",
+        "EN": "Add",
         "UA": "Додати"
     },
     {
         "id": 57,
         "RU": "Блокировки",
-        "EN": "text",
+        "EN": "Locks",
         "UA": "Блокування"
     },
     {
         "id": 58,
         "RU": "Файл",
-        "EN": "text",
+        "EN": "File",
         "UA": "Файл"
     },
     {
         "id": 59,
         "RU": "Конфигурация настроек клиента",
-        "EN": "text",
+        "EN": "Configuring client settings",
         "UA": "Конфігурація налаштувань клієнта"
     },
     {
         "id": 60,
         "RU": "Указать месторасположение",
-        "EN": "text",
+        "EN": "Specify location",
         "UA": "Вказати місце розташування"
     },
     {
         "id": 61,
         "RU": "Краткое название",
-        "EN": "text",
+        "EN": "Short name",
         "UA": "Коротка назва"
     },
     {
         "id": 62,
-        "RU": "К примере: Для игры с допами",
-        "EN": "text",
+        "RU": "К примеру: Для игры с допами",
+        "EN": "For example: For playing with extras",
         "UA": "До прикладі: Для гри з допами"
     },
     {
         "id": 63,
         "RU": "Версия клиента",
-        "EN": "text",
+        "EN": "Client version",
         "UA": "Версія клієнта"
     },
     {
         "id": 64,
         "RU": "Выберите папку с игрой",
-        "EN": "text",
+        "EN": "Select the game folder",
         "UA": "Виберіть папку з грою"
     },
     {
         "id": 65,
         "RU": "К примеру",
-        "EN": "text",
+        "EN": "For example",
         "UA": "Наприклад"
     },
     {
         "id": 66,
         "RU": "Выбрать",
-        "EN": "text",
+        "EN": "Select",
         "UA": "Вибрати"
     },
     {
         "id": 67,
         "RU": "Сохранить",
-        "EN": "text",
+        "EN": "Save",
         "UA": "Зберегти"
     },
     {
         "id": 68,
         "RU": "Название",
-        "EN": "text",
+        "EN": "Name",
         "UA": "Назва"
     },
     {
         "id": 69,
         "RU": "Адрес",
-        "EN": "text",
+        "EN": "Address",
         "UA": "Адреса"
     },
     {
         "id": 70,
         "RU": "Создание патч листа",
-        "EN": "text",
+        "EN": "Creating a patch sheet",
         "UA": "Створення патч листа"
     },
     {
         "id": 71,
         "RU": "Регистрация в Лаунчере",
-        "EN": "text",
+        "EN": "Registration in Launcher",
         "UA": "Реєстрація в лаунчер"
     },
     {
         "id": 72,
         "RU": "Описание создания патча",
-        "EN": "text",
+        "EN": "Description of creating a patch",
         "UA": "Опис створення патча"
     },
     {
         "id": 73,
         "RU": "<p>В первом поле укажите папку где находится игровой клиент, который необходимо запатчить.<\/p><p>В следующем поле укажите папку сохранения архивов.<\/p><p>После завершения архивации, в папке сохрания появится файл patch.json, это файл с данными вашего патча.<\/p><p>Файл patch.json и все файлы необходимо загрузить на ваш сервер.<\/p><p>Далее, при регистрации вашего сервера в базе лаунчера, необходимо указать прямые ссылки на patch.json и архивы.<\/p>",
-        "EN": "text",
+        "EN": "<p> In the first field, specify the folder where the game client that you want to patch is located. </p> <p> In the next field, specify the folder to save the archives. </p> <p> After the archiving is completed, the patch file will appear in the save folder. json, this is a file with your patch data. </p> <p> The patch.json file and all files must be uploaded to your server. </p> <p> Next, when registering your server in the launcher database, you must specify direct links to patch.json and archives. </p>",
         "UA": "<p> В першому полі вкажіть папку де знаходиться ігровий клієнт, який необхідно запатчіть. <\/p> <p> В наступному полі вкажіть папку збереження архівів. <\/p> <p> Після завершення архівації, в папці е з'явиться файл patch. json, це файл з даними вашого патча. <\/p> <p> файл patch.json і всі файли потрібно завантажити на ваш сервер. <\/p> <p> Далі, при реєстрації вашого сервера в базі лаунчер, необхідно вказати прямі посилання на patch.json і архіви. <\/p>"
     },
     {
         "id": 74,
         "RU": "Введите путь где расположен патч, все файлы в папке будут проиндексированы, заархивированы.",
-        "EN": "text",
+        "EN": "Enter the path where the patch is located, all files in the folder will be indexed, archived.",
         "UA": "Введіть шлях де розташований патч, всі файли в папці будуть проіндексовані, заархівовані."
     },
     {
         "id": 75,
         "RU": "Файлы для обновления, которые будем патчить",
-        "EN": "text",
+        "EN": "Files to update, which we will patch",
         "UA": "Файли для оновлення, які будемо патчить"
     },
     {
         "id": 76,
         "RU": "Укажите папку",
-        "EN": "text",
+        "EN": "Specify a folder",
         "UA": "Вкажіть папку"
     },
     {
         "id": 77,
         "RU": "Окно",
-        "EN": "text",
+        "EN": "Window",
         "UA": "Вікно"
     },
     {
         "id": 78,
         "RU": "Вам необходимо указать папку для сохранения патча.",
-        "EN": "text",
+        "EN": "You need to specify a folder to save the patch.",
         "UA": "Вам необхідно вказати папку для збереження патча."
     },
     {
         "id": 79,
         "RU": "Где будут сохраняться архивы",
-        "EN": "text",
+        "EN": "Where the archives will be stored",
         "UA": "Де будуть зберігатися архіви"
     },
     {
         "id": 80,
         "RU": "Начать",
-        "EN": "text",
+        "EN": "To begin",
         "UA": "Почати"
     },
     {
         "id": 81,
         "RU": "Обработка",
-        "EN": "text",
+        "EN": "Processing",
         "UA": "Обробка"
     },
     {
         "id": 82,
         "RU": "Файлов",
-        "EN": "text",
+        "EN": "Files",
         "UA": "Файлів"
     },
     {
         "id": 83,
         "RU": "Размер",
-        "EN": "text",
+        "EN": "Size",
         "UA": "Розмір"
     },
     {
         "id": 84,
         "RU": "Статус",
-        "EN": "text",
+        "EN": "Status",
         "UA": "Статус"
     },
     {
         "id": 85,
         "RU": "Ожидание",
-        "EN": "text",
+        "EN": "Expectation",
         "UA": "Очікування"
     },
     {
         "id": 86,
         "RU": "Описание регистрации",
-        "EN": "text",
+        "EN": "Registration description",
         "UA": "Опис реєстрації"
     },
     {
         "id": 87,
         "RU": "`<p>Все сервера отображаемые в лаунчере, находится в общей базе, при регистрации, вы добавляете свой сервер в базу.<\/p><p>Вам необходимо заполнить данные необходмые для лаунчера.<\/p><p>После заполнения, вы получите код ваших настроек, его нужно передать <a href=\"https:\/\/t.me\/Cannabytes\">разработчику лаунчера<a\/>.<\/p><p>После успешной проверки, ваш сервер появится в базах у всех пользователей лаунчера.<\/p>`,",
-        "EN": "text",
+        "EN": "`<p>All servers displayed in the launcher are located in a common database, when registering, you add your server to the database.<\/p><p>You need to fill in the data required for the launcher.<\/p><p>After filling in, you will receive the code of your settings, you need to pass it <a href=\"https:\/\/t.me\/Cannabytes\">to the launcher developer<a\/>.<\/p><p>After successful verification, your server will appear in the databases of all users of the launcher.<\/p>`,",
         "UA": "<p> Всі сервера відображаються в лаунчер, знаходиться в загальній базі, при реєстрації, ви додаєте свій сервер в базу. <\/p> <p> Вам необхідно заповнити дані необходмимі для лаунчер. <\/p> <p> Після заповнення, ви отримаєте код ваших налаштувань, його потрібно передати <a href=\"https:\/\/t.me\/Cannabytes\"> розробнику лаунчер <a\/>. <\/p> <p> Після успішної перевірки, ваш сервер з'явиться в базах у всіх користувачів лаунчер. <\/p>"
     },
     {
         "id": 88,
         "RU": "Сайт сервера",
-        "EN": "text",
+        "EN": "Server website",
         "UA": "Сайт сервера"
     },
     {
         "id": 89,
         "RU": "Ссылка патч-лист",
-        "EN": "text",
+        "EN": "Link patch list",
         "UA": "Посилання патч-лист"
     },
     {
         "id": 90,
         "RU": "Ссылка где храниться файлы",
-        "EN": "text",
+        "EN": "Link where files are stored",
         "UA": "Посилання де зберігатися файли"
     },
     {
         "id": 91,
         "RU": "Приложение игры",
-        "EN": "text",
+        "EN": "Game application",
         "UA": "Додаток гри"
     },
     {
         "id": 92,
         "RU": "Аргументы",
-        "EN": "text",
+        "EN": "Arguments",
         "UA": "Аргументи"
     },
     {
         "id": 93,
         "RU": "Дата старта",
-        "EN": "text",
+        "EN": "Start date",
         "UA": "Дата старту"
     },
     {
         "id": 94,
         "RU": "Часовой пояс",
-        "EN": "text",
+        "EN": "Timezone",
         "UA": "Часовий пояс"
     },
     {
         "id": 95,
         "RU": "Версия сервера",
-        "EN": "text",
+        "EN": "Server version",
         "UA": "Версія сервера"
     },
     {
         "id": 96,
         "RU": "Макс. заточка",
-        "EN": "text",
+        "EN": "Max. sharpening",
         "UA": "Макс. заточка"
     },
     {
         "id": 97,
         "RU": "Безопастные заточка",
-        "EN": "text",
+        "EN": "Safe sharpening",
         "UA": "Безпеки заточка"
     },
     {
         "id": 98,
         "RU": "Есть ли GM-Shop",
-        "EN": "text",
+        "EN": "Is there a GM-Shop",
         "UA": "Чи є GM-Shop"
     },
     {
         "id": 99,
         "RU": "Есть ли баффер",
-        "EN": "text",
+        "EN": "Is there a buffer",
         "UA": "Чи є Баффер"
     },
     {
         "id": 100,
         "RU": "Есть ли глобальный ГК",
-        "EN": "text",
+        "EN": "Is there a global GC",
         "UA": "Чи є глобальний ГК"
     },
     {
         "id": 101,
         "RU": "Есть ли оффлайн торг",
-        "EN": "text",
+        "EN": "Is there an offline bargaining",
         "UA": "Чи є оффлайн торг"
     },
     {
         "id": 102,
         "RU": "Разрешен ли бот",
-        "EN": "text",
+        "EN": "Is bot allowed",
         "UA": "Дозволено чи бот"
     },
     {
         "id": 103,
         "RU": "Есть ли баг макросов",
-        "EN": "text",
+        "EN": "Is there a macro bug",
         "UA": "Чи є баг макросів"
     },
     {
         "id": 104,
         "RU": "Бесконечные ли Soulshots",
-        "EN": "text",
+        "EN": "Are there Endless Soulshots",
         "UA": "Нескінченні чи Soulshots"
     },
     {
         "id": 105,
         "RU": "Есть ли помощь новичкам",
-        "EN": "text",
+        "EN": "Is there any help for beginners",
         "UA": "Чи є допомога новачкам"
     },
     {
         "id": 106,
         "RU": "Авторегистрация",
-        "EN": "text",
+        "EN": "Auto registration",
         "UA": "Автореєстрація"
     },
     {
         "id": 107,
         "RU": "`Проверка владельца сайта.<br>Для того чтоб ваш сервер попал в базу лаунчера, необходимо проверить, является сайт вашим.<br>В корне вашего сайта, создайте пустой файл <strong id=\"code\">{{ .CreateCode }}<\/strong><br>Пример: https:\/\/example.com\/{{ .CreateCode }}<br>Если на момент проверки файла не будет, регистрация будет отклонена.`,",
-        "EN": "text",
+        "EN": "`Verification of the site owner.<br>In order for your server to get into the launcher database, you need to check whether the site is yours.<br>In the root of your site, create an empty file <strong id=\"code\">{{ .CreateCode }}<\/strong><br>Example: https:\/\/example.com\/{{ .CreateCode }}<br>If there is no file at the time of verification, the registration will be rejected.`,",
         "UA": "Перевірка власника сайту. <br> Для того щоб ваш сервер потрапив в базу лаунчер, необхідно перевірити, є сайт вашим. <br> У корені вашого сайту, створіть порожній файл <strong id=\"code\"> {{.CreateCode}} <\/strong> <br> Приклад: https:\/\/example.com\/ {{.CreateCode}} <br> Якщо на момент перевірки файлу не буде, реєстрація буде відхилена."
     },
     {
         "id": 108,
         "RU": "Сгенерировать конфигурацию",
-        "EN": "text",
+        "EN": "Generate a configuration",
         "UA": "згенерувати конфігурацію"
     },
     {
         "id": 109,
         "RU": "Конфигурация",
-        "EN": "text",
+        "EN": "Configuration",
         "UA": "конфігурація"
     },
     {
         "id": 110,
         "RU": "Передайте её разработчику",
-        "EN": "text",
+        "EN": "Pass it to the developer",
         "UA": "Передайте її розробнику"
     },
     {
         "id": 111,
         "RU": "Импортировать изображения",
-        "EN": "text",
+        "EN": "Import images",
         "UA": "імпортувати зображення"
     },
     {
         "id": 112,
         "RU": "Перемещение изображений с папки указанных игр в директорию с лаунчером",
-        "EN": "text",
+        "EN": "Moving images from the folder of the specified games to the folder with the launcher",
         "UA": "Переміщення зображень з папки зазначених ігор в директорію з лаунчером"
     },
     {
         "id": 113,
         "RU": "`В папке лаунчера нет скриншотов.<br>Убедитесь что Вы указали пути к клиентам, в них лаунчер будет искать скриншоты. Нажмите на кнопку \"Импортировать изображения\" и лаунчер добавит их в свою директиву.`,",
-        "EN": "text",
+        "EN": "`There are no screenshots in the launcher folder.<br>Make sure that you have specified the paths to the clients, the launcher will search for screenshots in them. Click on the \"Import images\" button and the launcher will add them to its directive.`,",
         "UA": "В папці лаунчер немає скріншотів. <br> Переконайтеся що Ви вказали шляху до клієнтів, в них лаунчер буде шукати скріншоти. Натисніть на кнопку \"Імпортувати зображення\" і лаунчер додасть їх в свою директиву."
     },
     {
         "id": 114,
         "RU": "Ошибка",
-        "EN": "text",
+        "EN": "Error",
         "UA": "Помилка"
     },
     {
         "id": 115,
         "RU": "Заметки",
-        "EN": "text",
+        "EN": "Notes",
         "UA": "Нотатки"
     },
     {
         "id": 116,
         "RU": "Сохраните себе полезную информацию о сервере.",
-        "EN": "text",
+        "EN": "Save yourself useful information about the server.",
         "UA": "Збережіть собі корисну інформацію про сервер."
     },
     {
         "id": 117,
         "RU": "Открыть",
-        "EN": "text",
+        "EN": "Open",
         "UA": "Відкрити"
     },
     {
         "id": 118,
         "RU": "Загрузка файлов",
-        "EN": "text",
+        "EN": "Uploading files",
         "UA": "Завантаження файлів"
     },
     {
         "id": 119,
         "RU": "Черный список",
-        "EN": "text",
+        "EN": "Black list",
         "UA": "Чорний список"
     },
     {
         "id": 120,
         "RU": "Загружено",
-        "EN": "text",
+        "EN": "Uploaded",
         "UA": "Завантажено"
     },
     {
         "id": 121,
         "RU": "Всего",
-        "EN": "text",
+        "EN": "Total",
         "UA": "Всього"
     },
     {
         "id": 122,
         "RU": "Характеристики",
-        "EN": "text",
+        "EN": "Characteristics",
         "UA": "Характеристики"
     },
     {
         "id": 123,
         "RU": "Версия игры",
-        "EN": "text",
+        "EN": "Game version",
         "UA": "Версія гри"
     },
     {
         "id": 124,
         "RU": "Старт через",
-        "EN": "text",
+        "EN": "Start in",
         "UA": "Старт через"
     },
     {
         "id": 125,
         "RU": "Временная Зона",
-        "EN": "text",
+        "EN": "Time Zone",
         "UA": "Тимчасова Зона"
     },
     {
         "id": 126,
         "RU": "Уровень сервера",
-        "EN": "text",
+        "EN": "Server level",
         "UA": "Рівень сервера"
     },
     {
         "id": 127,
         "RU": "Месторасположение игры",
-        "EN": "text",
+        "EN": "Location of game",
         "UA": "Місцезнаходження гри"
     },
     {
         "id": 128,
         "RU": "Применить",
-        "EN": "text",
+        "EN": "Apply",
         "UA": "Застосувати"
     },
     {
         "id": 129,
         "RU": "Обновить патч",
-        "EN": "text",
+        "EN": "Update patch",
         "UA": "Оновити патч"
     },
     {
         "id": 130,
         "RU": "Запустить игру после обновления",
-        "EN": "text",
+        "EN": "Launch the game after updating",
         "UA": "Запустити гру після поновлення"
     },
     {
         "id": 131,
         "RU": "<p>Game Update - это бесплатное и лучшее программное обеспечение для обновления игровых файлов.<\/p><p>GU имеет большие возможности, хорошую скорость работы, удобство и простоту.<\/p><p>Постоянное улучшение GU делает ПО более совершенным, и Вы как игрок или администратор сервера, можете его использовать!<\/p>",
-        "EN": "text",
+        "EN": "<p>Game Update is a free and best software for updating game files.</p> < p>GU has great features, good speed, convenience and simplicity.</p><p>The constant improvement of GU makes the software more perfect, and you, as a player or server administrator, can use it!</p>",
         "UA": "<p> Game Update - це безкоштовне і краще програмне забезпечення для оновлення ігрових файлів. <\/p> <p> GU має великі можливості, хорошу швидкість роботи, зручність і простоту. <\/p> <p> Постійне поліпшення GU робить ПО більш досконалим, і Ви як гравець або адміністратор сервера, можете його використовувати! <\/p>"
     },
     {
         "id": 132,
         "RU": "Быстрые обновления",
-        "EN": "text",
+        "EN": "Fast Updates",
         "UA": "Швидкі оновлення"
     },
     {
         "id": 133,
         "RU": "Хватит загружать повторно файлы, которые ранее загружали. Появилась возможность сохранять все файлы, и при обновлении, когда данный файл понадобится, мы его возьмем из нашего архива!<br>Включите функцию и укажите где сохранять резервные файлы в настройках!",
-        "EN": "text",
+        "EN": "Stop re-uploading files that were uploaded earlier. Now you can save all the files, and when updating, when this file is needed, we will take it from our archive!<br>Turn on the function and specify where to save backup files in the settings!",
         "UA": "Досить завантажувати повторно файли, які раніше завантажували. З'явилася можливість зберігати всі файли, і при оновленні, коли даний файл знадобиться, ми його візьмемо з нашого архіву! <br> Увімкніть функцію і вкажіть де зберігати резервні файли в настройках!"
     },
     {
         "id": 134,
         "RU": "Один на весь мир",
-        "EN": "text",
+        "EN": "One for the whole world",
         "UA": "Один на весь світ"
     },
     {
         "id": 135,
         "RU": "Лаунчер GU достаточно дружелюбный, и Вы можете обновляться от любого сервера, который использует лаунчер.<br>Ссылки на обновление есть в базах лаунчера либо на сайте сервера.",
-        "EN": "text",
+        "EN": "The GU launcher is quite friendly, and you can update from any server that uses the launcher.< br>There are links to the update in the launcher databases or on the server's website.",
         "UA": "Лаунчер GU досить доброзичливий, і Ви можете оновлюватися від будь-якого сервера, який використовує лаунчер. <br> Посилання на оновлення є в базах лаунчер або на сайті сервера."
     },
     {
         "id": 136,
         "RU": "Выбор папки с игрой",
-        "EN": "text",
+        "EN": "Selecting the game folder",
         "UA": "Вибір папки з грою"
     },
     {
         "id": 137,
         "RU": "Удобства ради, была создана опция выбора папки с игрой при обновлении под определенные хроники.",
-        "EN": "text",
+        "EN": "For convenience, an option was created to select a folder with the game when updating for certain chronicles.",
         "UA": "Зручності заради, була створена немає змоги вибирати папки з грою при оновленні під певні хроніки."
     },
     {
         "id": 138,
         "RU": "Множественные загрузки",
-        "EN": "text",
+        "EN": "Multiple downloads",
         "UA": "Множинні завантаження"
     },
     {
         "id": 139,
         "RU": "В настройках есть возможность выбора кол-ва одновременных загрузок файлов. Это даст ощутимый прирост в скорости завершения загрузки.",
-        "EN": "text",
+        "EN": "In the settings, you can choose the number of simultaneous file downloads. This will give a significant increase in the speed of loading completion.",
         "UA": "У налаштуваннях є можливість вибору кількості одночасних завантажень файлів. Це дасть відчутний приріст в швидкості завантаження буде завершено."
     },
     {
         "id": 140,
         "RU": "Я как игрок, часто имею проблему, с тем что забываю свои аккаунты, по этому была создана опция, которая дает возможность сохранять ваши заметки на будущее, и они отображаются только для данного сервера (домена).",
-        "EN": "text",
+        "EN": "As a player, I often have a problem with the fact that I forget my accounts, so an option was created that allows you to save your notes for the future, and they are displayed only for this server (domain).",
         "UA": "Я як гравець, часто маю проблему, з тим що забуваю свої акаунти, з цього була створена опція, яка дає можливість зберігати ваші замітки на майбутнє, і вони відображаються тільки для даного сервера (домена)."
     },
     {
         "id": 141,
         "RU": "Краткие описания",
-        "EN": "text",
+        "EN": "Short descriptions",
         "UA": "Нам інформацію про те"
     },
     {
         "id": 142,
         "RU": "На странице обновления, есть раздел с кратким описанием сервера, это даст представление о направленности сервера. Всё таки, лучше прочитать полное описание на сайте сервера.",
-        "EN": "text",
+        "EN": "On the update page, there is a section with a brief description of the server, this will give an idea of ​​the focus of the server. All the same, it is better to read the full description on the server's website.",
         "UA": "На сторінці оновлення, є розділ з коротким описом сервера, це дасть уявлення про спрямованість сервера. Все таки, краще прочитати повний опис на сайті сервера."
     },
     {
         "id": 143,
         "RU": "У меня есть идея по улучшению Game Update, как предложить?",
-        "EN": "text",
+        "EN": "I have an idea for improving Game Update, how to suggest it?",
         "UA": "У мене є ідея щодо поліпшення Game Update, як запропонувати?"
     },
     {
         "id": 144,
         "RU": "`Буду рад любым идеям, напишите максимально внятно и кратко свои идеи мне в телеграм <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>.`,",
-        "EN": "text",
+        "EN": "`I will be glad to have any ideas, write your ideas as clearly and briefly as possible to me in telegrams <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>.`,",
         "UA": "Буду радий будь-яких ідей, напишіть максимально виразно і коротко свої ідеї мені в телеграм <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>."
     },
     {
         "id": 145,
         "RU": "Программу Game Update нужно разместить в папку с игрой?",
-        "EN": "text",
+        "EN": "Do I need to place the Game Update program in the game folder?",
         "UA": "Програму Game Update потрібно розмістити в папку з грою?"
     },
     {
         "id": 146,
         "RU": "Нет! GU можете разметить где угодно.<br>В GU нужно указать папки с игрой и указать какие это хроники игры. Если не указать заранее, то GU предложит Вам указать месторасположение клиента.",
-        "EN": "text",
+        "EN": "No! You can place GU anywhere.<br>In GU, you need to specify the folders with the game and specify which chronicles of the game they are. If you do not specify it in advance, GU will ask you to specify the location of the client.",
         "UA": "Ні! GU можете розмітити де завгодно. <br> В GU потрібно вказати папки з грою і вказати які це хроніки гри. Якщо не вказати заздалегідь, то GU запропонує Вам вказати місце розташування клієнта."
     },
     {
         "id": 147,
         "RU": "Когда выйдет новая версия Game Update, как мне обновить?",
-        "EN": "text",
+        "EN": "When the new version of Game Update is released, how do I update?",
         "UA": "Коли вийде нова версія Game Update, як мені оновити?"
     },
     {
         "id": 148,
         "RU": "Обновление произойдет при запуске в случае выхода новой версии.<br>Аналогично и обновляться шаблон GU.",
-        "EN": "text",
+        "EN": "The update will occur at startup if a new version is released.<br>Similarly, the GU template will be updated.",
         "UA": "Оновлення відбудеться під час запуску в разі виходу нової версії. <br> Аналогічно і оновлюватися шаблон GU."
     },
     {
         "id": 149,
         "RU": "Я хочу создать патч под свой сервер, как сделать?",
-        "EN": "text",
+        "EN": "I want to create a patch for my server, how do I do it?",
         "UA": "Я хочу створити патч під свій сервер, як зробити?"
     },
     {
         "id": 150,
         "RU": "`Создание вашего патча доступно в дополнительных настройках, которое откроется при нажатии на лого сайта, либо <a href=\"\/setting\/patch\/create\" class=\"aj\">нажмите сюда чтоб перейти<\/a>.`,",
-        "EN": "text",
+        "EN": "`Creating your patch is available in the advanced settings, which will open when you click on the site logo, or <a href=\"\/setting\/patch\/create\" class=\"aj\">click here to go<\/a>.`,",
         "UA": "Створення вашого патча є в додаткових настройках, яке відкриється при натисканні на лого сайту, або <a href=\"\/setting\/patch\/create\" class=\"aj\">натисніть сюди щоб перейти <\/a>."
     },
     {
         "id": 151,
         "RU": "Рейтинг серверов",
-        "EN": "text",
+        "EN": "Server rating",
         "UA": "Рейтинг серверів"
     },
     {
         "id": 152,
         "RU": "Обновить",
-        "EN": "text",
+        "EN": "Refresh",
         "UA": "Оновити"
     },
     {
         "id": 153,
         "RU": "Запустить игру",
-        "EN": "text",
+        "EN": "Launch the game",
         "UA": "Запустити гру"
     },
     {
         "id": 154,
         "RU": "Голосование",
-        "EN": "text",
+        "EN": "Vote",
         "UA": "Голосування"
     },
     {
         "id": 155,
         "RU": "Если Вам нравится сервер",
-        "EN": "text",
+        "EN": "If you like the server",
         "UA": "Якщо Вам подобається сервер"
     },
     {
         "id": 156,
         "RU": "проголосуйте за него, и Вы улучшите позиции в рейтинге.",
-        "EN": "text",
+        "EN": "Vote for it, and you will improve position in the rating.",
         "UA": "Проголосуйте за нього, і Ви поліпшите позиції в рейтингу."
     },
     {
         "id": 157,
         "RU": "Вы можете голосовать каждые 12 часов.",
-        "EN": "text",
+        "EN": "You can vote every 12 hours.",
         "UA": "Ви можете голосувати кожні 12 годин."
     },
     {
         "id": 158,
         "RU": "Как правило, сервера вознаграждают игроков за голосование.",
-        "EN": "text",
+        "EN": "As a rule, servers reward players for voting.",
         "UA": "Як правило, сервера винагороджують гравців за голосування."
     },
     {
         "id": 159,
         "RU": "Ваш игровой ник",
-        "EN": "text",
+        "EN": "Your game nickname",
         "UA": "Ваш ігровий нік"
     },
     {
         "id": 160,
         "RU": "Ник персонажа",
-        "EN": "text",
+        "EN": "Character's nickname",
         "UA": "Нік персонажа"
     },
     {
         "id": 161,
         "RU": "Голосовать",
-        "EN": "text",
+        "EN": "Vote",
         "UA": "Голосовать"
     },
     {
         "id": 162,
         "RU": "Вы уже голосовали.",
-        "EN": "text",
+        "EN": "You have already voted.",
         "UA": "Ви вже голосували."
     },
     {
         "id": 163,
         "RU": "Следующий раз проголосовать сможете через",
-        "EN": "text",
+        "EN": "Next time you can vote through",
         "UA": "Наступний раз проголосувати зможете через"
     },
     {
         "id": 164,
         "RU": "сек.",
-        "EN": "text",
+        "EN": "sec.",
         "UA": "Сек."
     },
     {
         "id": 165,
         "RU": "Мои заметки",
-        "EN": "text",
+        "EN": "My notes",
         "UA": "Мої замітки"
     },
     {
         "id": 166,
         "RU": "Создать",
-        "EN": "text",
+        "EN": "Create",
         "UA": "Створити"
     },
     {
         "id": 167,
         "RU": "У Вас нет записей к данному серверу, но Вы можете создать",
-        "EN": "text",
+        "EN": "You have no records for this server, but you can create",
         "UA": "У Вас немає записів до даного сервера, але Ви можете створити"
     },
     {
         "id": 168,
         "RU": "Сохраните заметки о сервере. Заметки отображаются только для данного сервера, вне зависимости от хроник, рейтов.",
-        "EN": "text",
+        "EN": "Save the server notes. Notes are displayed only for this server, regardless of the chronicles, rates.",
         "UA": "Збережіть замітки про сервер. Нотатки відображаються тільки для даного сервера, незалежно від хронік, Рейт."
     },
     {
         "id": 169,
         "RU": "Запуск",
-        "EN": "text",
+        "EN": "Launch",
         "UA": "Запуск"
     },
     {
         "id": 170,
         "RU": "Мы можем сохранять все патчи, это устранит надобность в повторной загрузки одинаковых файлов",
-        "EN": "text",
+        "EN": "We can save all patches, this will eliminate the need to re-download the same files",
         "UA": "Ми можемо зберігати всі патчі, це усуне потреба в повторній завантаження однакових файлів"
     },
     {
         "id": 171,
         "RU": "Загружать всегда повторно",
-        "EN": "text",
+        "EN": "Always re-upload",
         "UA": "Завантажувати завжди повторно"
     },
     {
         "id": 172,
         "RU": "Сохранять в резерве файлы патча",
-        "EN": "text",
+        "EN": "Save patch files as a backup",
         "UA": "Зберігати в резерві файли патча"
     },
     {
         "id": 173,
         "RU": "Где сохранять резервные патчи",
-        "EN": "text",
+        "EN": "Where to save backup patches",
         "UA": "Де зберігати резервні патчі"
     },
     {
         "id": 174,
         "RU": "Резервный патч",
-        "EN": "text",
+        "EN": "Backup patch",
         "UA": "Резервний патч"
     },
     {
         "id": 175,
         "RU": "Удалять файлы сразу?",
-        "EN": "text",
+        "EN": "Delete files right away?",
         "UA": "Видаляти файли відразу?"
     },
     {
         "id": 176,
-        "RU": "Да, будем удалять архив после загрузки каждого файла",
-        "EN": "text",
-        "UA": "Так, будемо видаляти архів після завантаження кожного файлу"
+        "RU": "Да",
+        "EN": "Yes",
+        "UA": "Так"
     },
     {
         "id": 177,
         "RU": "Нет, будем удалять архивы патча после загрузки всех файлов",
-        "EN": "text",
+        "EN": "No, we will delete the patch archives after downloading all the files",
         "UA": "Ні, будемо видаляти архіви патча після завантаження всіх файлів"
     },
     {
         "id": 178,
         "RU": "Кол-во одновременных загрузок",
-        "EN": "text",
+        "EN": "Number of simultaneous downloads",
         "UA": "Кількість одночасних завантажень"
     },
     {
         "id": 179,
         "RU": "Автозапуск",
-        "EN": "text",
+        "EN": "Autostart",
         "UA": "Автозапуск"
     },
     {
         "id": 180,
         "RU": "Запускать Launcher после запуска Windows",
-        "EN": "text",
+        "EN": "Launch Launcher after Windows starts",
         "UA": "Запускати Launcher після запуску Windows"
     },
     {
         "id": 181,
         "RU": "Рейтинг сервера",
-        "EN": "text",
+        "EN": "Server rating",
         "UA": "Рейтинг сервера"
     },
     {
         "id": 182,
         "RU": "Голосов",
-        "EN": "text",
+        "EN": "Votes",
         "UA": "Голосів"
+    },
+    {
+        "id": 183,
+        "RU": "Старт был",
+        "EN": "The start was",
+        "UA": "Старт був"
     }
 ]
